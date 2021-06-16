@@ -4,7 +4,7 @@ Initialize your NodeJS, MongoDB, and ExpressJS with this basic setup.
 This setup is configured for 
 - Rate Limiting
 - Cross Origin Resource Sharing
-- Seting Secure HTTP Headers
+- Setting Secure HTTP Headers
 - Cookies
 - Cross Site Scripting (XSS)
 - Compression
